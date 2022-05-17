@@ -1,3 +1,6 @@
 [submodule "lectures/devise-demo"]
 	path = lectures/devise-demo
 	url = git@github.com:trouni/devise-demo-858.git
+[submodule "lectures/restaurants-with-pundit"]
+	path = lectures/restaurants-with-pundit
+	url = git@github.com:trouni/restaurants-with-pundit-858.git
