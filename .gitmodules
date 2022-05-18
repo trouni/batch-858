@@ -9,3 +9,4 @@
 [submodule "lectures/geocoding"]
 	path = lectures/geocoding
 	url = git@github.com:trouni/geocoding-858.git
+	branch = main
