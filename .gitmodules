@@ -10,3 +10,7 @@
 	path = lectures/geocoding
 	url = git@github.com:trouni/geocoding-858.git
 	branch = main
+[submodule "lectures/imdb-search"]
+	path = lectures/imdb-search
+	url = git@github.com:trouni/imdb-search-858.git
+	branch = main
